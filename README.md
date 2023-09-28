@@ -6,6 +6,10 @@ An Invoice creator project built with React. Add itemized items, configure quant
 ### Live Demo:
 (https://kartavyaarora.github.io/)
 
+or
+
+https://invoice-generator-9jxn.vercel.app/
+
 ### Video Demo
 
 
